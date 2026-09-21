@@ -12,9 +12,17 @@ Customers currently request product returns via email or phone calls, requiring 
 
 The Product Return Request system lets a customer submit a single return request that is automatically validated against the 30-day return window and final-sale exclusions. Defective items valued over $200 are routed to a supervisor for approval, customers can track their request status, and transaction history is preserved for auditability.
 
-## Week 3 Deliverables
-- [Transaction Workflow](docs/week3/workflow-v1.pptx)
-- [State Model](docs/week3/state-model-v1.pptx)
-- [Three-Tier Architecture & Responsibilities](docs/week3/architecture-v1.pptx)
-- [Data Dictionary](docs/week3/data-dictionary.docx)
-- [Concept Check](docs/week3/concept-check.docx)
+## Repository Structure
+```
+docs/
+├── 01-project-foundation/   # business problem/scope, team charter, GitHub evidence
+├── 02-requirements/         # stakeholders, requirements, user stories, business rules
+└── 03-system-design/        # main transaction, workflow, state model, data dictionary, architecture
+```
+
+## System Design Artifacts
+- [Transaction Workflow](docs/03-system-design/workflow-v1.pptx)
+- [State Model](docs/03-system-design/state-model-v1.pptx)
+- [Three-Tier Architecture & Responsibilities](docs/03-system-design/architecture-v1.pptx)
+- [Data Dictionary](docs/03-system-design/data-dictionary.docx)
+- [Concept Check](docs/03-system-design/concept-check.docx)
