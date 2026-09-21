@@ -8,12 +8,15 @@
 
 * **Repository URL:** https://github.com/mBudnikUH/MIS3371-Section26252-Group7
 * **GitHub Usernames (Collaborators):**
+  * Mathew Budnik — mBudnikUH
+  * Sebastian Tamayo — s-tamayo
+  * Manal Wadif — ManalWadif
   * Nicole Steffen — nicolesteffenUH
   * Kamaria Noble — krnoble2 (invitation pending)
 * **TA Access:**
-  * Sai Deeksha Ganthi (Section 26252 TA) — DeekshaGanthi
+  * Sai Deeksha Ganthi (Section 26252 TA) — DeekshaGanthi (accepted)
 * **Instructor Access:**
-  * [INSERT INSTRUCTOR GITHUB USERNAME HERE]
+  * Sina Asadi (Professor) — sasadi2 (accepted)
 * **Repository Home Screenshot:**
   [INSERT SCREENSHOT SHOWING README HERE]
 * **Collaborators Screenshot:**
