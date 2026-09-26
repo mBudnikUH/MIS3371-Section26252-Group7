@@ -25,3 +25,4 @@ docs/
 - [State Model](docs/03-system-design/state-model-v1.pptx)
 - [Three-Tier Architecture & Responsibilities](docs/03-system-design/architecture-v1.pptx)
 - [Data Dictionary](docs/03-system-design/data-dictionary.md)
+
